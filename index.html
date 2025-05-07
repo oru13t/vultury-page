@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>vultury | fonk producer</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="cursor"></div>
+    <div class="cursor-follower"></div>
+
+    <header>
+        <nav>
+            <div class="logo">vultury</div>
+            <div class="nav-links">
+                <a href="#about">Обо мне</a>
+                <a href="#releases">Релизы</a>
+                <a href="#contact">Контакты</a>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>vultury</h1>
+            <p class="subtitle">Phonk and synthwave producer</p>
+        </section>
+
+        <section id="about" class="about">
+            <h2>Обо мне</h2>
+            <p>Привет! Я vultury - продюсер, создающий уникальный fonk звук. Моя музыка сочетает в себе элементы различных жанров, создавая атмосферные и эмоциональные треки.</p>
+        </section>
+
+        <section id="releases" class="releases">
+            <h2>Релизы</h2>
+            <div class="releases-grid" id="releases-container">
+                <!-- Релизы будут добавлены динамически -->
+            </div>
+        </section>
+
+        <section id="contact" class="contact">
+            <h2>Контакты</h2>
+            <div class="social-links">
+                <a href="#" class="social-link">SoundCloud</a>
+                <a href="#" class="social-link">Instagram</a>
+                <a href="#" class="social-link">Telegram</a>
+                <a href="#" class="social-link">Email</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024–2025 vultury</p>
+    </footer>
+
+    <div class="popup" id="release-popup">
+        <div class="popup-content">
+            <button class="popup-close">&times;</button>
+            <div class="popup-header">
+                <h3 class="popup-title"></h3>
+                <p class="popup-with"></p>
+            </div>
+            <div class="popup-body">
+                <p class="popup-description"></p>
+                <div class="popup-links">
+                    <a href="#" class="popup-link vk" target="_blank">VK Музыка</a>
+                    <a href="#" class="popup-link yandex" target="_blank">Яндекс Музыка</a>
+                    <a href="#" class="popup-link sber" target="_blank">СберЗвук</a>
+                    <a href="#" class="popup-link apple" target="_blank">Apple Music</a>
+                    <a href="#" class="popup-link youtube" target="_blank">YouTube Music</a>
+                    <a href="#" class="popup-link spotify" target="_blank">Spotify</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

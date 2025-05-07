@@ -1,0 +1,139 @@
+{
+    "releases": [
+        {
+            "title": "To the sky!",
+            "cover": "img/to-the-sky.jpg",
+            "alt": "To the sky! cover",
+            "with": "",
+            "description": "Атмосферный трек, сочетающий в себе элементы фонка и синтвейва. Погрузитесь в космическое путешествие под ритмичные биты и завораживающие мелодии.",
+            "links": {
+                "vk": "https://vk.com/",
+                "yandex": "https://ya.ru/",
+                "sber": "https://zvooq.ru/",
+                "apple": "https://apple.com/",
+                "youtube": "https://youtube.com/",
+                "spotify": "https://spotify.com/"
+            }
+        },
+        {
+            "title": "Right back!",
+            "cover": "img/right-back.jpg",
+            "alt": "Right back! cover",
+            "with": "",
+            "description": "Энергичный трек с мощными басами и агрессивным звучанием. Идеально подходит для тренировок или вечерней поездки по городу.",
+            "links": {
+                "vk": "",
+                "yandex": "",
+                "sber": "",
+                "apple": "",
+                "youtube": "",
+                "spotify": ""
+            }
+        },
+        {
+            "title": "Kanami",
+            "cover": "img/kanami.jpg",
+            "alt": "Kanami cover",
+            "with": "",
+            "description": "Мелодичный трек, вдохновленный японской культурой. Сочетает в себе традиционные мотивы с современным звучанием фонка.",
+            "links": {
+                "vk": "",
+                "yandex": "",
+                "sber": "",
+                "apple": "",
+                "youtube": "",
+                "spotify": ""
+            }
+        },
+        {
+            "title": "An Enigmatic Encounter",
+            "cover": "img/an-enigmatic-encounter.jpg",
+            "alt": "An Enigmatic Encounter cover",
+            "with": "",
+            "description": "Загадочный трек с мистической атмосферой. Погружает слушателя в мир таинственных звуков и неожиданных поворотов.",
+            "links": {
+                "vk": "",
+                "yandex": "",
+                "sber": "",
+                "apple": "",
+                "youtube": "",
+                "spotify": ""
+            }
+        },
+        {
+            "title": "Justice",
+            "cover": "img/justice.jpg",
+            "alt": "Justice cover",
+            "with": "with onensx",
+            "description": "Мощный коллаборационный трек, объединяющий энергию двух продюсеров. Справедливость восторжествует под тяжелые басы и агрессивные мелодии.",
+            "links": {
+                "vk": "",
+                "yandex": "",
+                "sber": "",
+                "apple": "",
+                "youtube": "",
+                "spotify": ""
+            }
+        },
+        {
+            "title": "Lycoris",
+            "cover": "img/lycoris.jpg",
+            "alt": "Lycoris cover",
+            "with": "with conformeast",
+            "description": "Совместный трек, вдохновленный японской мифологией. Ликорис - цветок, символизирующий расставание и новое начало.",
+            "links": {
+                "vk": "",
+                "yandex": "",
+                "sber": "",
+                "apple": "",
+                "youtube": "",
+                "spotify": ""
+            }
+        },
+        {
+            "title": "Last train",
+            "cover": "img/last-train.jpg",
+            "alt": "Last train cover",
+            "with": "with Impaling Minds",
+            "description": "Эпичный коллаборационный трек о последнем поезде в никуда. Сочетает в себе элементы дарк-фонка и индастриала.",
+            "links": {
+                "vk": "",
+                "yandex": "",
+                "sber": "",
+                "apple": "",
+                "youtube": "",
+                "spotify": ""
+            }
+        },
+        {
+            "title": "September",
+            "cover": "img/september.jpg",
+            "alt": "September cover",
+            "with": "",
+            "description": "Мелодичный трек, вдохновленный осенней атмосферой. Идеально подходит для вечерних прогулок под дождем.",
+            "links": {
+                "vk": "",
+                "yandex": "",
+                "sber": "",
+                "apple": "",
+                "youtube": "",
+                "spotify": ""
+            }
+        },
+        {
+            "title": "Lost in space",
+            "cover": "img/lost-in-space.jpg",
+            "alt": "Lost in space cover",
+            "with": "with phonq66",
+            "description": "Космический коллаборационный трек о блуждании в бескрайних просторах вселенной. Сочетает в себе элементы фонка и эмбиента.",
+            "links": {
+                "vk": "",
+                "yandex": "",
+                "sber": "",
+                "apple": "",
+                "youtube": "",
+                "spotify": ""
+            }
+        }
+    ]
+} 
